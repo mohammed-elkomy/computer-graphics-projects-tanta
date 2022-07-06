@@ -1,4 +1,4 @@
-# Final projects submissions for computer graphics course (CCE3271) Fall 2022.
+# Final projects submissions for computer graphics course (CCE2211) Fall 2022.
 
 ## List of teams
 ### group 01
