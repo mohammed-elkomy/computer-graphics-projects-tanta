@@ -1,0 +1,3 @@
+PyOpenGL
+pygame
+numpy

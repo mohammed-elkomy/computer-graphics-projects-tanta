@@ -1,0 +1,11 @@
+if we have a sagment line AB 
+A = (x1,y1), B = (x2,y2)
+so tanget is same as the line so tangent vector = (B - A)
+as long as tangent.normal = 0
+so (Xt,Yt).(Xn,Yn) = 0 -->> Xn.Xt + Yt.Yn = 0
+so (Xn = -Yt, Yn =Xt) or (Xn = Yt, Yn =-Xt)
+so normal vector = (-Yt, Xt) or(Yt, -Xt)
+
+
+if we want to project a vertix into axis -->> just do dot product
+x_new = (point_in_old_axis).(unit_vector_axis)

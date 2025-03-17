@@ -1,0 +1,21 @@
+"""
+Texture steps (init)
+1) glEnable(GL_TEXTURE_2D)
+2) pygame.image.load("1.png")
+3) pygame.image.tostring(image, "RGBA", True)
+4) glGenTextures(len(images), texture_names) # create identifiers for textures
+5) glBindTexture(GL_TEXTURE_2D, texture_name) # modify THIS IDENTIFIER
+6) glTexParameterf (many of those) # set the parameters
+7) glTexImage2D # feed the binary image to opengl
+              (Usage)
+1) glBindTexture(GL_TEXTURE_2D, texture_name) # use THIS IDENTIFIER
+2) glTexCoord(0, 0) repeat this
+"""
+
+"""
+TO enable texture transparency
+1) set the third parameter in glTexImage2D to GL_RGBA
+2) make sure to use "RGBA" >>> pygame.image.tostring(image, "RGBA", True) here
+3) make sure GL_RGBA is the 7th parameter
+4)  glEnable(GL_BLEND) 
+"""

@@ -1,0 +1,269 @@
+[
+    {
+        "Wall_id": 1,
+        "Wall_cords": [ [ 4, 492 ], [ 452, 492 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 2,
+        "Wall_cords": [ [ 54, 440 ], [ 83, 440 ] ],
+        "Wall_size": 28
+    },
+    {
+        "Wall_id": 3,
+        "Wall_cords": [ [ 136, 440 ], [ 179, 440 ] ],
+        "Wall_size": 28
+    },
+    {
+        "Wall_id": 4,
+        "Wall_cords": [ [ 278, 440 ], [ 324, 440 ] ],
+        "Wall_size": 28
+    },
+    {
+        "Wall_id": 5,
+        "Wall_cords": [ [ 374, 440 ], [ 404, 440 ] ],
+        "Wall_size": 28
+    },
+    {
+        "Wall_id": 6,
+        "Wall_cords": [ [ 50, 384 ], [ 87, 384 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 7,
+        "Wall_cords": [ [ 179, 384 ], [ 279, 384 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 8,
+        "Wall_cords": [ [ 370, 384 ], [ 408, 384 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 9,
+        "Wall_cords": [ [ 4, 338 ], [ 88, 338 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 10,
+        "Wall_cords": [ [ 140, 336 ], [ 183, 336 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 11,
+        "Wall_cords": [ [ 274, 336 ], [ 322, 336 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 12,
+        "Wall_cords": [ [ 368, 340 ], [ 452, 340 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 13,
+        "Wall_cords": [ [ 4, 284 ], [ 88, 284 ] ],
+        "Wall_size": 6
+    },
+    {
+        "Wall_id": 14,
+        "Wall_cords": [ [ 175, 291 ], [ 282, 291 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 15,
+        "Wall_cords": [ [ 368, 284 ], [ 452, 284 ] ],
+        "Wall_size": 6
+    },
+    {
+        "Wall_id": 16,
+        "Wall_cords": [ [ 4, 244 ], [ 88, 244 ] ],
+        "Wall_size": 6
+    },
+    {
+        "Wall_id": 17,
+        "Wall_cords": [ [ 175, 237 ], [ 282, 237 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 18,
+        "Wall_cords": [ [ 368, 244 ], [ 452, 244 ] ],
+        "Wall_size": 6
+    },
+    {
+        "Wall_id": 20,
+        "Wall_cords": [ [ 4, 190 ], [ 88, 190 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 21,
+        "Wall_cords": [ [ 179, 192 ], [ 279, 192 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 22,
+        "Wall_cords": [ [ 368, 190 ], [ 452, 190 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 23,
+        "Wall_cords": [ [ 50, 142 ], [ 87, 142 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 24,
+        "Wall_cords": [ [ 131.5, 143 ], [ 183, 143 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 25,
+        "Wall_cords": [ [ 274, 143 ], [ 327, 143 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 26,
+        "Wall_cords": [ [ 370, 142 ], [ 407, 142 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 27,
+        "Wall_cords": [ [ 8, 96 ], [ 39, 96 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 28,
+        "Wall_cords": [ [ 179, 96 ], [ 279, 96 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 29,
+        "Wall_cords": [ [ 417, 96 ], [ 448, 96 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 30,
+        "Wall_cords": [ [ 50, 48 ], [ 183, 48 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 31,
+        "Wall_cords": [ [ 274, 48 ], [ 407, 48 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 32,
+        "Wall_cords": [ [ 4, 4 ], [ 452, 4 ] ],
+        "Wall_size": 8
+    },
+
+    {
+        "Comment": "Beginning of Vertical Walls",
+        "Wall_id": 33,
+        "Wall_cords": [ [ 6, 342 ], [ 6, 492 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 34,
+        "Wall_cords": [ [ 228, 428 ], [ 228, 486 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 35,
+        "Wall_cords": [ [ 450, 342 ], [ 450, 492 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 36,
+        "Wall_cords": [ [ 133, 284 ], [ 133, 386 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 37,
+        "Wall_cords": [ [ 324, 284 ], [ 324, 386 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 38,
+        "Wall_cords": [ [ 87, 284 ], [ 87, 340 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 39,
+        "Wall_cords": [ [ 368, 284 ], [ 368, 340 ] ],
+        "Wall_size": 6
+    },
+    {
+        "Wall_id": 40,
+        "Wall_cords": [ [ 177, 238 ], [ 177, 292 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 41,
+        "Wall_cords": [ [ 280, 238 ], [ 280, 292 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 42,
+        "Wall_cords": [ [ 87, 188 ], [ 87, 242 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 43,
+        "Wall_cords": [ [ 133, 189 ], [ 133, 242 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 44,
+        "Wall_cords": [ [ 324, 189 ], [ 324, 242 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 45,
+        "Wall_cords": [ [ 368, 188 ], [ 368, 242 ] ],
+        "Wall_size": 6
+    },
+    {
+        "Wall_id": 46,
+        "Wall_cords": [ [ 228, 142 ], [ 228, 188 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 47,
+        "Wall_cords": [ [ 84, 94 ], [ 84, 140 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 48,
+        "Wall_cords": [ [ 371, 94 ], [ 371, 140 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 49,
+        "Wall_cords": [ [ 133.5, 55 ], [ 133.5, 99 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 50,
+        "Wall_cords": [ [ 228, 46 ], [ 228, 92 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 51,
+        "Wall_cords": [ [ 324, 55 ], [ 324, 99 ] ],
+        "Wall_size": 10
+    },
+    {
+        "Wall_id": 52,
+        "Wall_cords": [ [ 6, 5 ], [ 6, 183 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 53,
+        "Wall_cords": [ [ 450, 5 ], [ 450, 183 ] ],
+        "Wall_size": 8
+    },
+    {
+        "Wall_id": 54,
+        "Wall_cords": [ [ 228, 334 ], [ 228, 380 ] ],
+        "Wall_size": 10
+    }
+]
